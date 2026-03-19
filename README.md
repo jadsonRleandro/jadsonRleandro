@@ -43,7 +43,11 @@
   style = "padding-right: 10px;"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 
-  <img style="float: right;" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonRleandro&layout=compact&theme=tokyonight" />
+  </br>
+  </br>
+  </br>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonRleandro&layout=compact&theme=tokyonight" />
 </div>
 
   
